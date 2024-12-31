@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SURAJ BORKUTE</h1>
 <h3 align="center">A Future Ethical Hacker and Cybersecurity Enthusiast from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.freepik.com/photos/cyber-security-gif">
+<img align="right" alt="coding" width="400" src="https://www.electric.ai/wp-content/uploads/Blog-Cybersecurity-Best-Practices-Refresh.gif">
 
 
 - 📫 How to reach me **surajborkute9881392842@gmail.com**
